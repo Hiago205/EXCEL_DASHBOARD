@@ -19,16 +19,53 @@ Base fictícia contendo:
 ## Objetivo
 Transformar dados brutos em informações visuais para apoio à tomada de decisão.
 
-## Metodologia
-*1- Dividindo em abas as etapas de construção do dashboard.
-  1.1- Aba de assets , contendo os recursos visuais que serão utilizados.
-  1.2- Aba de base , contendo a base de dados bruta.
-  1.3- Aba de calculo , contendo a parte que irá transforma os dados em informação.
-  1.4- Aba de dashboard, contendo o dashboard completo que mostra visualmente as informações coletadas na parte de calculo  
-*2- Executar a analise da base de dados, conferindo quais são os dados presentes e o que eles representam.
-*3- Transformar os dados em informações, levantar as perguntas principais, de acordo com a solicitação e por meio de calculo
-   tornar os dados brutos em respostas para tais perguntas. Sejam valores ou indicadores visuais.
-*4- Separar a parte visual, organizando na aba de assets os recursos (imagens, cores, etc)  visuais, que serão implantados no dashboard.
-*5- Organizando o dashboard, apresentar de forma simples, direta e de facil assimilação, os principais indicadores levantados a partir 
-    da base de dados para auxilar na tomada de decisão.
+## 🧱 Etapas de Construção do Dashboard
+
+### 1. Organização em Abas
+- **1.1 Aba Assets**  
+  Contém os recursos visuais que serão utilizados no dashboard (imagens, cores, ícones e identidade visual).
+
+- **1.2 Aba Base**  
+  Contém a base de dados bruta, exatamente como foi coletada, sem tratamentos ou cálculos.
+
+- **1.3 Aba Cálculo**  
+  Responsável por transformar os dados brutos em informações, por meio de fórmulas, métricas e indicadores.
+
+- **1.4 Aba Dashboard**  
+  Contém o dashboard final, apresentando visualmente as informações geradas na aba de cálculo.
+
+---
+
+### 2. Análise Exploratória dos Dados
+- Avaliação da base de dados para entender:
+  - Quais dados estão disponíveis
+  - O que cada campo representa
+  - Possíveis inconsistências ou oportunidades de análise
+
+---
+
+### 3. Transformação de Dados em Informação
+- Definição das principais perguntas de negócio
+- Criação de cálculos e indicadores que transformam dados brutos em:
+  - Métricas numéricas
+  - Indicadores visuais
+  - Insights para tomada de decisão
+
+---
+
+### 4. Organização dos Recursos Visuais
+- Separação dos elementos visuais na aba **Assets**, incluindo:
+  - Paleta de cores
+  - Logos
+  - Ícones
+  - Elementos gráficos reutilizáveis
+
+---
+
+### 5. Construção do Dashboard
+- Organização do layout do dashboard com foco em:
+  - Clareza
+  - Simplicidade
+  - Leitura rápida
+  - Apoio direto à tomada de decisão
   
