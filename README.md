@@ -1,72 +1,75 @@
-# Dashboard de Vendas
+  # 📊 Dashboard de Vendas
 
-Projeto desenvolvido para análise de vendas de uma empresa do setor X 
+Projeto desenvolvido com foco na **análise de desempenho de vendas**, transformando dados brutos em informações estratégicas por meio de visualizações claras e objetivas.
 
-## Dados
-modificar em função dos dados
-Base fictícia contendo:
-- Data
-- Plano de assinatura
-- 
-- Vendedor
-- Quantidade
-- Preço
-- Faturamento
-
-## Ferramentas
-- Excel
-
-## Objetivo
-Transformar dados brutos em informações visuais para apoio à tomada de decisão.
-
-## 🧱 Etapas de Construção do Dashboard
-
-### 1. Organização em Abas
-
-- **1.1 Aba Assets**  
-  Contém os recursos visuais que serão utilizados no dashboard (imagens, cores, ícones e identidade visual).
-
-- **1.2 Aba Base**  
-  Contém a base de dados bruta, exatamente como foi coletada, sem tratamentos ou cálculos.
-
-- **1.3 Aba Cálculo**  
-  Responsável por transformar os dados brutos em informações, por meio de fórmulas, métricas e indicadores.
-
-- **1.4 Aba Dashboard**  
-  Contém o dashboard final, apresentando visualmente as informações geradas na aba de cálculo.
+O dashboard foi construído seguindo boas práticas de organização de dados, cálculo de indicadores e apresentação visual, com o objetivo de apoiar a **tomada de decisão baseada em dados**.
 
 ---
 
-### 2. Análise Exploratória dos Dados
-- Avaliação da base de dados para entender:
-  - Quais dados estão disponíveis
-  - O que cada campo representa
-  - Possíveis inconsistências ou oportunidades de análise
+## 🎯 Objetivo do Projeto
+- Analisar o desempenho de vendas ao longo do tempo
+- Identificar tendências, variações mensais e padrões de consumo
+- Consolidar indicadores-chave (KPIs) de forma visual e acessível
+- Facilitar a interpretação dos dados por usuários não técnicos
 
 ---
 
-### 3. Transformação de Dados em Informação
-- Definição das principais perguntas de negócio
-- Criação de cálculos e indicadores que transformam dados brutos em:
-  - Métricas numéricas
-  - Indicadores visuais
-  - Insights para tomada de decisão
+## 🗂️ Dados Utilizados
+Base de dados **fictícia**, porém estruturada para simular um cenário real de vendas, contendo os seguintes campos:
+
+- **Data da venda**
+- **Plano de assinatura**
+- **Vendedor responsável**
+- **Quantidade vendida**
+- **Preço unitário**
+- **Faturamento total**
+
+Os dados foram utilizados como entrada bruta e posteriormente tratados para geração de métricas e indicadores.
 
 ---
 
-### 4. Organização dos Recursos Visuais
-- Separação dos elementos visuais na aba **Assets**, incluindo:
-  - Paleta de cores
-  - Logos
-  - Ícones
-  - Elementos gráficos reutilizáveis
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Excel**
+  - Organização da base de dados
+  - Criação de cálculos e indicadores
+  - Construção do dashboard interativo
+  - Aplicação de filtros e segmentações
 
 ---
 
-### 5. Construção do Dashboard
-- Organização do layout do dashboard com foco em:
-  - Clareza
-  - Simplicidade
-  - Leitura rápida
-  - Apoio direto à tomada de decisão
-  
+## 🧱 Estrutura do Arquivo
+O projeto foi organizado em abas, seguindo uma estrutura lógica e escalável:
+
+- **Assets**  
+  Recursos visuais utilizados no dashboard (cores, logos, elementos gráficos).
+
+- **Base**  
+  Base de dados bruta, sem tratamentos ou cálculos.
+
+- **Cálculo**  
+  Área responsável pela transformação dos dados em informações, com métricas e indicadores.
+
+- **Dashboard**  
+  Painel visual final, consolidando os principais insights do projeto.
+
+---
+
+## 📈 Resultado
+O dashboard final apresenta os principais indicadores de vendas de forma:
+- Visual
+- Intuitiva
+- Direta
+- Orientada à tomada de decisão
+
+Permitindo análises rápidas e comparações de desempenho ao longo do tempo.
+
+---
+
+## 🚀 Como Reproduzir o Projeto
+1. Faça o download do arquivo Excel disponível neste repositório
+2. Abra o arquivo no Microsoft Excel
+3. Navegue entre as abas para entender:
+   - A base de dados
+   - Os cálculos aplicados
+   - O dashboard final
+4. Utilize os filtros disponíveis para explorar diferentes cenários
