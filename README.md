@@ -22,6 +22,7 @@ Transformar dados brutos em informações visuais para apoio à tomada de decis�
 ## 🧱 Etapas de Construção do Dashboard
 
 ### 1. Organização em Abas
+
 - **1.1 Aba Assets**  
   Contém os recursos visuais que serão utilizados no dashboard (imagens, cores, ícones e identidade visual).
 
